@@ -17,9 +17,9 @@ Ce projet est un CRM Open Source pour WordPress basé sur le plugin Jetpack CRM.
 
 ## Installation
 
-1. Installez WordPress sur votre serveur ou votre environnement local.
-2. Installez le plugin Jetpack CRM depuis le répertoire de plugins WordPress.
-3. Activez le plugin Jetpack CRM.
+1. Créez un dossier pour votre projet WordPress. Vous pouvez le nommer comme vous le souhaitez. Placez-vous dans le dossier nouvellement créé via un terminal.
+2. Clonez le référentiel GitHub WordPress sans oublier la base de donnée fournie dans le dossier que vous venez de créer.
+3. Vous n'avez pas besoin d'apporter de modifications au document "wp-config.php" puisuqe le tout est déjà configuré.
 4. Connectez-vous à l'interface d'administration de WordPress et accédez à Jetpack CRM depuis le menu principal.
 
 ## Documentation
