@@ -10,6 +10,7 @@
    - [Suivi des transactions (Quotes)](#suivi-des-transactions-quotes)
    - [Gestion des tâches (Task Scheduler)](#gestion-des-tâches-task-scheduler)
    - [Export de contacts](#export-de-contacts)
+   - [Création d'un nouvel utilisateur](#création-dun-nouvel-utilisateur)
 3. [Cas concrets d'utilisation](#cas-concrets-dutilisation)
    - [Ajout d'un contact (Adding a Contact)](#ajout-dun-contact-adding-a-contact)
    - [Création d'une transaction (Creating a Quote)](#création-dune-transaction-creating-a-quote)
@@ -18,7 +19,7 @@
 
 ## Introduction
 
-Ce CRM Open Source pour WordPress avec Jetpack CRM vous permet de gérer efficacement votre relation client, en simplifiant la gestion des leads, prospects et clients, et en offrant une interface utilisateur intuitive. Dans cette documentation, vous découvrirez comment utiliser notre CRM et tirer le meilleur parti de ses fonctionnalités.
+Le CRM Open Source pour WordPress avec Jetpack CRM permet de gérer efficacement la relation client, en simplifiant la gestion des leads, prospects et clients, et en offrant une interface utilisateur intuitive. Cette documentation indique l'utilisation du CRM et indique également comment tirer le meilleur parti de ses fonctionnalités.
 
 ## Utilisation de l'application
 
@@ -72,6 +73,11 @@ Voici les fonctionnalités d'export de contacts disponibles dans JetPack CRM:
 4. **Téléchargement du fichier .csv**: Une fois les options d'exportation sélectionnées, JetPack CRM générera un fichier .csv contenant les informations des contacts. Vous pourrez télécharger ce fichier et l'utiliser pour vos besoins spécifiques.
 
 Pour exporter vos contacts, suivez les étapes mentionnées dans la section "Export des contacts" de la documentation ci-dessus.
+
+### Création d'un nouvel utilisateur
+
+Pour créer un nouvel utilisateur en tant que collaborateur sur votre CRM, vous devez vous connecter en tant qu'administrateur et vous rendre sure l'onglet "Compte" du menu se situant sur la barre latérale gauche de votre écran.
+Un fois cela effectué, vous avez la possibilité d'ajouter un compte. Afin de lui attribuer un accès uniquement à la gestion des contacts, il vous faut donner pour rôle "Jetpack CRM Contact Manager".
 
 ## Cas concrets d'utilisation
 
